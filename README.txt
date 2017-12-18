@@ -1,6 +1,6 @@
 This program uses python3 and pygame.
 
-You need a python3 interpreter (www.python.org) and pygame installer. 
+You need a python3 interpreter (www.python.org) and pygame installed. 
 (`python -m pip install pygame` (window), `sudo apt-get install python3-pip` + `sudo pip3 install pygame` (linux))
 
 This program creates a circle of n points. The first point is 1 modulo n.  The second  point is 2 modulo n ...
