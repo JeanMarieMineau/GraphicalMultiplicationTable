@@ -6,7 +6,7 @@ Created on 27 juin 2017
 
 @author: <mineau.jean.marie@gmail.com>
  
-Segond exemple of use.
+Segond example of use.
 '''
 import pygame
 from GraphicalMultiplicationTable import Graphic
